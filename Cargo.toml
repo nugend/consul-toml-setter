@@ -1,0 +1,14 @@
+[package]
+name = "toml-thing"
+version = "0.1.0"
+authors = ["Danno <nugend@gmail.com>"]
+
+[dependencies]
+toml = "0.2.*"
+clap = "2.*"
+slog = "1"
+slog-term = "1.1.*"
+slog-scope =  "0.2.*"
+error-chain = "0.5.*"
+regex = "0.1"
+lazy_static = "0.2.*"
